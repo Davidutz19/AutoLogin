@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "io.github.davidutzdev.autologin.mixin.client",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"AddServerScreenMixin",
+        "ServerInfoMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

@@ -1,5 +1,7 @@
 # AutoLogin
 
+<img src="assets/Icone.png" width="128" height="128">
+
 A Minecraft Fabric mod that automatically executes login commands when joining servers.
 
 ## Features
@@ -14,12 +16,12 @@ A Minecraft Fabric mod that automatically executes login commands when joining s
 ### Server Configuration
 Configure your login command directly in the server edit screen:
 
-![Server List Configuration](screenshots/ServerList.png)
+![Server List Configuration](assets/ServerList.png)
 
 ### In-Game
 The mod automatically sends your login command upon joining:
 
-![In-Game Screenshot](screenshots/Ingame)
+![In-Game Screenshot](assets/Ingame.png)
 
 ## Installation
 
